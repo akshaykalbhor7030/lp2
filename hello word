@@ -8,4 +8,4 @@ else:
     print("The number", num, "is odd (negative).")
 
 merged_list = list1 + list2
-print(merged_list)
+print("This is the merged list :",merged_list)
